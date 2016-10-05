@@ -1,4 +1,4 @@
-class Varnish < Formula
+class Varnish4 < Formula
   desc "High-performance HTTP accelerator"
   homepage "https://www.varnish-cache.org/"
   url "https://repo.varnish-cache.org/source/varnish-4.1.3.tar.gz"
